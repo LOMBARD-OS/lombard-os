@@ -1,16 +1,35 @@
-## Hi there 👋
+# Lombard OS
 
-<!--
-**LOMBARD-OS/lombard-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> The intelligence layer between human capital and enterprise complexity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The problem no one has solved
+
+A consulting firm or ESN operating inside CAC 40, FTSE 100,
+and S&P 500 environments is sitting on enormous amounts of 
+relationship data, market signal, and workforce intelligence.
+
+None of it is connected.
+None of it is scored.
+None of it is actionable in real time.
+
+The result: decisions made on instinct instead of intelligence.
+Relationships that decay undetected. Opportunities that close
+before anyone knew they were open.
+
+The firms winning in this market are not working harder.
+They are operating on better information, faster.
+
+---
+
+## What changes with Lombard OS
+
+Operators go from reactive to predictive.
+
+Relationships are scored before they go cold.
+Demand is identified before it is published.
+The next move is surfaced before the operator asks for it.
+
+The platform does not replace judgement.
+It makes judgement faster, sharper, and compounding
