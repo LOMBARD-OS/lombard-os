@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lombard OS//Network Engineer Recruitment//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:neteng-slot1-20260626@lombard-os
+DTSTAMP:20260625T173000Z
+DTSTART:20260626T070000Z
+DTEND:20260626T073000Z
+SUMMARY:[HOLD] Network/Systems Engineer screen — Candidate 1
+DESCRIPTION:Teams screening. Network+security+systems / Ansible / Proxmox. Confirm candidate + Teams link on acceptance.
+LOCATION:Microsoft Teams
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:neteng-slot2-20260626@lombard-os
+DTSTAMP:20260625T173000Z
+DTSTART:20260626T073000Z
+DTEND:20260626T080000Z
+SUMMARY:[HOLD] Network/Systems Engineer screen — Candidate 2
+DESCRIPTION:Teams screening. Network+security+systems / Ansible / Proxmox. Confirm candidate + Teams link on acceptance.
+LOCATION:Microsoft Teams
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:neteng-slot3-20260626@lombard-os
+DTSTAMP:20260625T173000Z
+DTSTART:20260626T080000Z
+DTEND:20260626T083000Z
+SUMMARY:[HOLD] Network/Systems Engineer screen — Candidate 3
+DESCRIPTION:Teams screening. Network+security+systems / Ansible / Proxmox. Confirm candidate + Teams link on acceptance.
+LOCATION:Microsoft Teams
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:neteng-slot4-20260626@lombard-os
+DTSTAMP:20260625T173000Z
+DTSTART:20260626T083000Z
+DTEND:20260626T090000Z
+SUMMARY:[HOLD] Network/Systems Engineer screen — Candidate 4
+DESCRIPTION:Teams screening. Network+security+systems / Ansible / Proxmox. Confirm candidate + Teams link on acceptance.
+LOCATION:Microsoft Teams
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
