@@ -1,0 +1,11 @@
+tier,apollo_id,first_name,title,employer,fit_note
+1,54a4bb4c7468693b8c72e95e,Benoit,Senior Linux Systems & Network Engineer | Security & Critical Environments,AQSACOM,Bullseye - net+sys+sec+linux+critical
+1,60d0893a648bc500018c0f4a,David,Senior Systems and Network Engineer,Enix,Linux infra house - Proxmox/Ansible near-certain
+1,5e82ebc74834c30001946f61,Louis,"Senior Network, Systems & Infrastructure Engineer",Ozitem,Multi-domain ESN hands-on
+1,54a23e2a7468693825305d19,Kevin,Tech Lead Network Automation & Infrastructure Engineer,Worldline,Automation=Ansible; hands-on
+1,54a49577746869367630d752,Andy,Lead Infrastructure Engineer,Leboncoin,Scale Linux/Proxmox/Ansible
+2,54a895867468692d1c098a01,Eric,Senior Network & Security Engineer,Cour des comptes,Strong net+sec; confirm systems
+2,57ded84fa6da987b015dfde1,Naoufal,Senior Network & Security Engineer,Eutelsat,Satellite infra; strong
+2,55dc5794f3e5bb7918001c56,David,Senior Network/Security Engineer,BNP Paribas Asset Management,Enterprise net+sec
+2,57db79b6a6da98687b458f15,Younes,Senior Network & Security Engineer,Butagaz,Net+sec
+2,57d5dd65a6da9853a66b6de3,Mohamed,Senior Infrastructure Engineer,Exegy,Low-latency Linux/networking
